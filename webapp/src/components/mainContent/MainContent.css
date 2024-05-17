@@ -1,0 +1,15 @@
+.main-content {
+    padding: 20px;
+    border-left: 1px solid #e9ecef;
+    border-right: 1px solid #e9ecef;
+}
+
+.main-content h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "LideraTech WebApp",
+  "short_name": "WebApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "WebApp to help manage your business",
+  "icons": [
+    {
+      "src": "images/logo/logo48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }]
+}

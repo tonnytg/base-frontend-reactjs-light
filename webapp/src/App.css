@@ -1,0 +1,15 @@
+/*resert default*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* App.css */
+.App {
+  text-align: center;
+}
+
+a {
+  color: gray;
+}
